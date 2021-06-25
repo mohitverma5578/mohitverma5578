@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitverma5578
+- 👋 Hi, I’m Mohit Verma
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Dockers and kubernetes
 - 💞️ I’m looking to collaborate on API
